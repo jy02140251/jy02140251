@@ -1,29 +1,9 @@
 <div align="center">
-## 简介 | Summary | Resumen | الملخص | 簡介
+## 简介 | Summary
 
-| Language | Description |
-|----------|-------------|
-| **English** | Profile and pinned repos. |
-| **Español** | Perfil y repositorios fijados. |
-| **العربية** | الملف الشخصي والمستودعات المثبتة. |
-| **简体中文** | 个人主页与置顶仓库。 |
-| **繁體中文** | 個人主頁與置頂倉庫。 |
-
-# Hey there! I'm Alex Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Senior+Full-Stack+Engineer+%7C+10%2B+Years;Cloud+Infrastructure+%26+AI%2FML+Integration;Building+Developer+Tools+%26+Open+Source;Specialized+in+Scalable+Distributed+Systems)](https://github.com/jy02140251)
-
-<p>
-  <a href="https://github.com/jy02140251?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jy02140251?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jy02140251?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jy02140251?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jy02140251&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
+| English | 中文 |
+|---------|------|
+| Profile and pinned repos. | 个人主页与置顶仓库。 |
 
 ## About Me
 
